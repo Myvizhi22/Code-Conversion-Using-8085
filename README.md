@@ -47,7 +47,9 @@ HLT
 ```
 ## Output:
 <img width="655" height="569" alt="Screenshot 2026-02-20 102432" src="https://github.com/user-attachments/assets/f13d5360-761f-425c-b156-d8922b8e32e2" />
+
 <img width="707" height="590" alt="Screenshot 2026-02-20 102419" src="https://github.com/user-attachments/assets/48f828ef-f341-4808-9ed7-d7b99ec4b6bf" />
+
 ## Program 2: ASCII to Hexadecimal Conversion
 
 ## Algorithm:
@@ -86,6 +88,7 @@ HLT
 ```
 ## Output:
 <img width="657" height="599" alt="Screenshot 2026-02-20 102729" src="https://github.com/user-attachments/assets/56e9f154-ed2d-4cad-8e4b-dffa8ce123fd" />
+
 <img width="747" height="613" alt="Screenshot 2026-02-20 102719" src="https://github.com/user-attachments/assets/60f5a2a0-3a41-4738-bdb9-78e1e872649e" />
 
 ## Result:
